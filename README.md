@@ -13,7 +13,7 @@ Me chamo Yago Santana, tenho 21 anos e sou natural de Sergipe. Atualmente, estou
         />
 </a>    
 <p align="left">
-    <a href="https://www.instagram.com/yagostn?igsh=ZWI1ZXI5cmY3czFq&utm_source=q">
+    <a href="https://www.instagram.com/yagosntn">
         <img 
             alt="" 
             title="" 
