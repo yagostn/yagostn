@@ -149,7 +149,8 @@ Me chamo Yago Santana, tenho 21 anos e sou natural de Sergipe. Atualmente, estou
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=yagostn&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"
+" 
   />
 
 <img 
