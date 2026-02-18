@@ -1,34 +1,134 @@
-👨‍💻 Yago Santana
+# 👨🏻‍💻 Yago Santana
 
-🚀 Desenvolvedor Front-End
-📍 Sergipe, Brasil
-🎓 Sistemas de Informação — UNIT
+**`Desenvolvedor Front-End`**
 
-👋 Sobre mim
+Me chamo Yago Santana, tenho 21 anos e sou natural de Sergipe. Atualmente, estou cursando Sistemas de informações na Universidade Tiradentes (UNIT). 
 
-Olá! Me chamo Yago Santana, tenho 21 anos e sou desenvolvedor Front-End apaixonado por criar interfaces modernas, responsivas e com foco em experiência do usuário.
+<p align="left">
+    <a href="https://www.linkedin.com/in/yago-santana-92a009298/">
+        <img 
+            alt="" 
+            title="" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+</a>    
+<p align="left">
+    <a href="https://www.instagram.com/yagostn">
+        <img 
+            alt="" 
+            title="" 
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        />
+</a>
+</p>
 
-Atualmente curso Sistemas de Informação na Universidade Tiradentes (UNIT) e estou sempre buscando evoluir minhas habilidades técnicas e construir projetos que resolvam problemas reais.
+---
+        
+### 🤖 Linguagens e Tecnologias
 
-Tenho foco em:
-
-🔥 Interfaces modernas e performáticas
-
-📱 Design responsivo
-
-⚡ Experiência do usuário (UX)
-
-🧠 Boas práticas e código limpo
-
-🌐 Conecte-se comigo
-
-
-
-
-🚀 Tecnologias e Ferramentas
-<div style="display: inline_block"><br/> <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="NextJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> <img align="center" alt="Tailwind" height="40" width="50" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"> <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> <img align="center" alt="Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> </div>
-📊 Estatísticas do GitHub
-<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true"/> </p>
-🎯 Objetivo
-
-Atuar como Desenvolvedor Front-End em projetos que me desafiem tecnicamente e me permitam evoluir como profissional, contribuindo com soluções eficientes, modernas e bem estruturadas.
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="docker" 
+    title="docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="appwrite" 
+    title="appwirite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg"
+/>
+<img 
+    align="left" 
+    alt="node" 
+    title="node"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="figma" 
+    title="figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+<br/>
+<br/>
