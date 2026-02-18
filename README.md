@@ -5,7 +5,7 @@
 Me chamo Yago Santana, tenho 21 anos e sou natural de Sergipe. Atualmente, estou cursando Sistemas de informações na Universidade Tiradentes (UNIT). 
 
 <p align="left">
-    <a href="(https://www.linkedin.com/in/yago-santana-92a009298/)">
+    <a href="([https://www.linkedin.com/in/yago-santana-92a009298/](https://www.linkedin.com/in/yago-santana-92a009298/))">
         <img 
             alt="" 
             title="" 
