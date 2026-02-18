@@ -4,28 +4,32 @@
 
 Me chamo Yago Santana, tenho 21 anos e sou natural de Sergipe. Atualmente, estou cursando Sistemas de informações na Universidade Tiradentes (UNIT). 
 
-<p align="left">
-    <a href="https://www.linkedin.com/in/yago-santana-92a009298/">
-        <img 
-            alt="" 
-            title="" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-</a>    
-<p align="left">
-    <a href="https://www.instagram.com/yagostn">
-        <img 
-            alt="" 
-            title="" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-</a>
-</p>
+Atualmente curso **Sistemas de Informação** na Universidade Tiradentes (UNIT) e estou sempre buscando evoluir minhas habilidades técnicas e construir projetos que resolvam problemas reais.
 
----
+Tenho foco em:
+
+- 🔥 Interfaces modernas e performáticas  
+- 📱 Design responsivo  
+- ⚡ Experiência do usuário (UX)  
+- 🧠 Boas práticas e código limpo  
+
+
+## 🎯 Objetivo
+
+Atuar como **Desenvolvedor Front-End** em projetos que me desafiem tecnicamente e me permitam evoluir como profissional, contribuindo com soluções eficientes, modernas e bem estruturadas.
+
+
+## 🌐 Conecte-se comigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yago-santana-92a009298/)
+- 📸 [Instagram](https://www.instagram.com/yagostn/)
+- 📧 Email: yagostn.dev@gmail.com
+
+
+
         
 ### 🤖 Linguagens e Tecnologias
-
+---
 <img 
     align="left" 
     alt="HTML"
@@ -132,3 +136,9 @@ Me chamo Yago Santana, tenho 21 anos e sou natural de Sergipe. Atualmente, estou
 />
 <br/>
 <br/>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagostn&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagostn&theme=github_dark)
