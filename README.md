@@ -19,6 +19,27 @@ Tenho foco em:
 Atuar como **Desenvolvedor Front-End** em projetos que me desafiem tecnicamente e me permitam evoluir como profissional, contribuindo com soluções eficientes, modernas e bem estruturadas.
 
 
+
+---
+
+## 🏢 Minha Empresa — AjuCode
+
+<div align="center">
+
+> *"Transformamos ideias em experiências digitais"*
+
+</div>
+
+Sou **CEO e co-fundador** da [AjuCode](http://ajucode.com.br/), uma empresa de desenvolvimento web criada junto com amigos com o objetivo de transformar ideias em produtos digitais modernos, funcionais e bem construídos. Na AjuCode, colocamos em prática tudo o que aprendemos — entregando soluções reais para clientes reais.
+
+[![Website](https://img.shields.io/badge/Website-ajucode.com.br-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](http://ajucode.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AjuCode-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aju-code-52b94438a/)
+[![Instagram](https://img.shields.io/badge/Instagram-@aju.code-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aju.code/)
+[![GitHub](https://img.shields.io/badge/GitHub-ajucode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajucode)
+
+---
+
+
 ## 🌐 Conecte-se comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yago-santana-92a009298/)
