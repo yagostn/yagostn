@@ -4,7 +4,7 @@
 
 Me chamo Yago Santana, tenho 21 anos e sou natural de Sergipe. Atualmente, estou cursando Sistemas de informações na Universidade Tiradentes (UNIT). 
 
-Atualmente Estagio na Rede5 como desenvolvededor Front-End e estou sempre buscando evoluir minhas habilidades técnicas e construir projetos que resolvam problemas reais.
+Atualmente Estagio na Rede5 como desenvolvededor Front-End e co-fundador da AjuCode, estou sempre buscando evoluir minhas habilidades técnicas e construir projetos que resolvam problemas reais.
 
 Tenho foco em:
 
