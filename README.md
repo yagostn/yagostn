@@ -4,7 +4,9 @@
 
 Me chamo Yago Santana, tenho 21 anos e sou natural de Sergipe. Atualmente, estou cursando Sistemas de informações na Universidade Tiradentes (UNIT). 
 
-Atualmente Estagio na Rede5 como desenvolvededor Front-End e co-fundador da AjuCode, estou sempre buscando evoluir minhas habilidades técnicas e construir projetos que resolvam problemas reais.
+Atualmente atuo como Desenvolvedor Web Júnior Front-End na AJAFS, contribuindo também com atividades relacionadas à Governança de TI.
+
+E também atuo como Estagiário de desenvolvedor Front-End e tech-leader na Rede5, onde contribuo para o desenvolvimento de soluções envolvendo Front-End e gestão de projetos com foco em eficiência operacional e inovação.
 
 Tenho foco em:
 
@@ -13,12 +15,7 @@ Tenho foco em:
 - ⚡ Experiência do usuário (UX)  
 - 🧠 Boas práticas e código limpo  
 
-
-## 🎯 Objetivo
-
-Atuar como **Desenvolvedor Front-End** em projetos que me desafiem tecnicamente e me permitam evoluir como profissional, contribuindo com soluções eficientes, modernas e bem estruturadas.
-
-
+Experiências práticas no desenvolvimento de  E-commerce e Marketplace, Sites Institucionais, Landing Pages e Design & UX/UI.
 
 ---
 
