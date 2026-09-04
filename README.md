@@ -1,21 +1,18 @@
 # 👨🏻‍💻 Yago Santana
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full-Stack`**
 
-Me chamo Yago Santana, tenho 21 anos e sou natural de Sergipe. Atualmente, estou cursando Sistemas de informações na Universidade Tiradentes (UNIT). 
-
-Atualmente atuo como Desenvolvedor Web Júnior Front-End na AJAFS, contribuindo também com atividades relacionadas à Governança de TI.
-
-E também atuo como Estagiário de desenvolvedor Front-End e tech-leader na Rede5, onde contribuo para o desenvolvimento de soluções envolvendo Front-End e gestão de projetos com foco em eficiência operacional e inovação.
-
-Tenho foco em:
-
-- 🔥 Interfaces modernas e performáticas  
-- 📱 Design responsivo  
-- ⚡ Experiência do usuário (UX)  
-- 🧠 Boas práticas e código limpo  
-
-Experiências práticas no desenvolvimento de  E-commerce e Marketplace, Sites Institucionais, Landing Pages e Design & UX/UI.
+Sou Yago Santana, Desenvolvedor Full Stack em formação, apaixonado por tecnologia, desenvolvimento web, aplicativos mobile, automações e Inteligência Artificial aplicada a processos, dashboards e regras de negócio.
+ 
+Desde 2022, desenvolvo soluções digitais completas, atuando no front-end, back-end, bancos de dados e integrações. No dia a dia, trabalho com JavaScript, TypeScript, Python, Dart, HTML, CSS e SQL.
+ 
+No front-end, utilizo React, Next.js, Tailwind CSS e Shadcn/UI. No back-end, desenvolvo APIs e regras de negócio com Node.js, NestJS, Express, Python e FastAPI, além de trabalhar com Supabase, PostgreSQL, Prisma ORM e Firebase.
+ 
+Também desenvolvo aplicativos mobile com Dart e Flutter, além de Progressive Web Apps (PWA) e sistemas responsivos para celulares, tablets e computadores. Na área de automação, trabalho com WhatsApp API, Evolution API, webhooks e integrações entre sistemas.
+ 
+Atualmente, atuo como Desenvolvedor Web Júnior Full Stack na AJAFS, contribuindo com o desenvolvimento e manutenção de sistemas, criação de funcionalidades, integrações, bancos de dados e regras de negócio. Também colaboro com atividades relacionadas à Governança de TI.
+ 
+Sou estudante de Sistemas de Informação e busco constantemente aprimorar meus conhecimentos e desenvolver soluções eficientes, seguras e que gerem resultados reais.
 
 ---
 
