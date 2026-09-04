@@ -160,3 +160,10 @@ Sou **CEO e co-fundador** da [AjuCode](http://ajucode.com.br/), uma empresa de d
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagostn&theme=github_dark)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagostn&theme=github_dark)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagostn/yagostn/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagostn/yagostn/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/yagostn/yagostn/output/snake.svg">
+</picture>
