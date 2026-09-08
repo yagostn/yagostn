@@ -293,14 +293,25 @@ Dashboards
 
 </div>
 
-### 🐍 Contribution Snake
+
+### 🐍 Commits Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yagostn/yagostn/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yagostn/yagostn/output/snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/yagostn/yagostn/output/snake.svg" width="100%" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yagostn/yagostn/output/snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yagostn/yagostn/output/snake.svg"
+  />
+  <img
+    alt="GitHub Commit Activity"
+    src="https://raw.githubusercontent.com/yagostn/yagostn/output/snake.svg"
+    width="100%"
+  />
 </picture>
 
 </div>
