@@ -270,16 +270,24 @@ Dashboards
 <!--                       GITHUB STATS                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 Atividade no GitHub
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/yagostn">
-  <img src="https://img.shields.io/github/followers/yagostn?style=for-the-badge&logo=github&label=Seguidores&color=181717" alt="Seguidores no GitHub" />
-</a>
-<a href="https://github.com/yagostn?tab=repositories">
-  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-Ver%20projetos-181717?style=for-the-badge&logo=github" alt="Repositórios" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yagostn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagostn&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+
+<br />
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yagostn&theme=github_dark" alt="Detalhes do perfil" />
+
+</div>
+
+### 🔥 Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yagostn&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
