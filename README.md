@@ -274,8 +274,8 @@ Dashboards
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yagostn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagostn&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagostn&theme=github_dark" alt="Estatísticas do GitHub" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagostn&theme=github_dark" alt="Linguagens mais usadas" />
 
 <br />
 
