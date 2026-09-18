@@ -7,13 +7,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,45:1C2128,100:6E7681&text=Yago%20Santana&fontColor=FFFFFF&fontSize=52&fontAlignY=34&desc=Full%20Stack%20Developer%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20APIs%20%C2%B7%20IA&descAlignY=54&descSize=17&descColor=C9D1D9&animation=fadeIn" width="100%" alt="Yago Santana" />
 
-<a href="https://yagostndev.vercel.app/">
+<a href="https://www.yagostndev.com.br/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=8B949E&center=true&vCenter=true&width=780&lines=Desenvolvedor+Full+Stack+%7C+desde+2022;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Python;Flutter+%C2%B7+FastAPI+%C2%B7+NestJS+%C2%B7+PostgreSQL;Automa%C3%A7%C3%B5es+e+IA+aplicada+a+processos+de+neg%C3%B3cio;CEO+%26+Co-fundador+da+AjuCode" alt="Typing SVG" />
 </a>
 
 <br />
 
-<a href="https://yagostndev.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+<a href="https://www.yagostndev.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
 <a href="https://www.linkedin.com/in/yago-santana-92a009298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:yagostn.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.instagram.com/yagostn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -59,6 +59,7 @@ Atuo como **Desenvolvedor Web Júnior Full Stack na AJAFS** e como **CEO & Co-fu
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="front-end" />
 
+</div>
 </details>
 
 <details>
@@ -68,6 +69,7 @@ Atuo como **Desenvolvedor Web Júnior Full Stack na AJAFS** e como **CEO & Co-fu
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi&theme=dark" alt="back-end" />
 
+</div>
 </details>
 
 <details>
@@ -76,6 +78,8 @@ Atuo como **Desenvolvedor Web Júnior Full Stack na AJAFS** e como **CEO & Co-fu
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,prisma,firebase&theme=dark" alt="banco de dados" />
+
+</div>
 </details>
 
 <details>
@@ -97,6 +101,7 @@ Layouts responsivos para <b>Mobile</b> · <b>Tablet</b> · <b>Desktop</b>
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,vercel,linux&theme=dark" alt="ferramentas" />
 
+</div>
 </details>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:8B949E,100:0D1117&section=header" width="100%" alt="divisor" />
@@ -134,8 +139,6 @@ Tenho interesse especial na aplicação de **Inteligência Artificial dentro de 
 </td>
 </tr>
 </table>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:8B949E,100:0D1117&section=header" width="100%" alt="divisor" />
 
@@ -267,32 +270,18 @@ Dashboards
 <!--                       GITHUB STATS                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 📊 GitHub Analytics
+## 📊 Atividade no GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yagostn&theme=github_dark" alt="Estatísticas" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yagostn&theme=github_dark" alt="Linguagens por repositório" />
-
-<br />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yagostn&theme=github_dark" alt="Linguagens mais commitadas" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yagostn&theme=github_dark&utcOffset=-3" alt="Horários produtivos" />
-
-<br />
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yagostn&theme=github_dark" alt="Detalhes do perfil" />
+<a href="https://github.com/yagostn">
+  <img src="https://img.shields.io/github/followers/yagostn?style=for-the-badge&logo=github&label=Seguidores&color=181717" alt="Seguidores no GitHub" />
+</a>
+<a href="https://github.com/yagostn?tab=repositories">
+  <img src="https://img.shields.io/badge/Reposit%C3%B3rios-Ver%20projetos-181717?style=for-the-badge&logo=github" alt="Repositórios" />
+</a>
 
 </div>
-
-### 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=yagostn&hide_border=true&border_radius=12&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" alt="GitHub Streak" />
-
-</div>
-
 
 ### 🐍 Commits Snake
 
@@ -328,7 +317,7 @@ Dashboards
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=1000&color=8B949E&center=true&vCenter=true&width=740&lines=Estou+sempre+aberto+a+novos+projetos+e+ideias;Vamos+construir+algo+juntos%3F" alt="contato" />
 
-<a href="https://yagostndev.vercel.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfólio" /></a>
+<a href="https://www.yagostndev.com.br/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfólio" /></a>
 <a href="https://www.linkedin.com/in/yago-santana-92a009298/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="mailto:yagostn.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 <a href="https://www.instagram.com/yagostn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
